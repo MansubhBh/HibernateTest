@@ -1,0 +1,4 @@
+com\ntc\websystique5\model\Student.class
+com\ntc\websystique5\utility\HibernateUtil.class
+com\ntc\websystique5\program\HibernateStandAlone.class
+com\ntc\websystique5\model\Address.class
